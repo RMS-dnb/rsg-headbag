@@ -1,4 +1,4 @@
-RSG-BUCKETHEAD Mad Respects to the original Script '[cad-headbag](https://github.com/cadburry6969/cad-headbag)' for qb-core fiveM. Fully Converted to RSG by RMS_dnb
+RSG-HEADBAG Mad Respects to the original Script '[cad-headbag](https://github.com/cadburry6969/cad-headbag)' for qb-core fiveM. Fully Converted to RSG by RMS_dnb
 
 
 
