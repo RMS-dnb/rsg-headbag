@@ -1,4 +1,8 @@
-Headbag for QBCore Servers with durability (most of the issues are fixed)
+RSG-BUCKETHEAD Mad Respects to the original Script 'cad-headbag' for qb-core fiveM. Fully Converted to RSG by RMS_dnb
+
+
+
+#Info Place a bag on someones head so they cant see. Each bucket has 5 uses before it deletes from your inventory. Please add everything below so the script works properly. You can see the Durability of the bucket each time you use it, located in your inventory if you hover over the item.
 
 # Dependencies
 * qb-core
